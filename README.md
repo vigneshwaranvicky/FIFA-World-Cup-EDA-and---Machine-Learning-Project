@@ -1,4 +1,4 @@
-## FIFA-World-Cup-EDA-and---Machine-Learning-Project
+## FIFA-World-Cup-EDA-and-Machine-Learning-Project
 #### A repository of final project
 
 ### Abstract:
